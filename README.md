@@ -39,7 +39,7 @@ def get_programming_languages():
 
 function getIde() {
   // Ce n'est pas vrai pour les 2 derniers
-  return ["Visual Studio Code", "PyCharm", "Jupyter Notebook", "BlocNote", "Vim"];
+  return ["Visual Studio Code", "PyCharm", "Jupyter Notebook", "Bloc-notes", "Vim"];
 }
 ```
 
