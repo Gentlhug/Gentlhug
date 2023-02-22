@@ -1,23 +1,47 @@
 ![Cover](https://github.com/Gentlhug/Gentlhug/blob/main/img/banniere_HUGO_FAURIEL_LinkedIn.jpg)
 
 ## :page_with_curl: À propos de moi
-```
+
+#### `</>` Description rapide (en SQL)
+```sql
 SELECT human FROM Earth
 WHERE
   name = 'Hugo FAURIEL'
   AND gender = 'Homme'
   AND age = 22
+  AND role = 'Étudiant en Master Intelligence Artificielle & Management'
   AND contract = 'Alternance'
   AND currentCompany = 'SFS Group'
   AND currentSchool = 'IA School'
 ```
-Étudiant en Intelligence Artificielle & Management, je suis passionné par tous les domaines nécessitant de la créativité :
+
+#### 👨‍💻 Description en langage humain
+Étudiant en Master Intelligence Artificielle & Management chez IA School, je suis actuellement en alternance au sein de l'entreprise SFS France.
+
+Je suis passionné par tous les domaines nécessitant de la créativité, comme par exemple :
 - :film_strip: Montage vidéo
 - :camera: Montage photo
 - :computer: Programmation
 - :musical_note: Création de musiques
 - :package: Impression 3D
 - ...and more!
+
+#### `</>` Les langages de programmation que j'utilise (en Python)
+```python
+def get_programming_languages():
+  # Je sais, HTML et CSS ne sont pas des langages de programmation
+  return ["HTML5", "CSS3", "JavaScript", "PhP", "SQL", "Python", "R"]
+```
+
+#### `</>` Les IDE que j'utilise (en PhP)
+```php
+<?php
+
+function getIde() {
+  // Ce n'est pas vrai pour les 2 derniers
+  return ["Visual Studio Code", "PyCharm", "Jupyter Notebook", "BlocNote", "Vim"];
+}
+```
 
 ## :video_game: Mes passions
 - :trollface: `01010000 01100001 01110010 01101100 01100101 01110010 00100000 01100101 01101110 00100000 01100010 01101001 01101110 01100001 01101001 01110010 01100101`
