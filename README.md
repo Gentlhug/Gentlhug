@@ -1,57 +1,57 @@
 ![Cover](https://github.com/Gentlhug/Gentlhug/blob/main/img/banniere_HUGO_FAURIEL_LinkedIn.jpg)
 
-## :page_with_curl: À propos de moi
+## :page_with_curl: About me
 
-#### `</>` Description rapide (en SQL)
+#### `</>` Fast description (in SQL)
 ```sql
-SELECT human FROM Earth
+SELECT Human FROM Earth
 WHERE
   name = 'Hugo FAURIEL'
-  AND gender = 'Homme'
-  AND age = 22
-  AND role = 'Étudiant en Master Intelligence Artificielle & Management'
-  AND contract = 'Alternance'
+  AND gender = 'Male'
+  AND age = 23
+  AND role = 'Student in Artificial Intelligence and Management'
+  AND contract = 'Apprenticeship'
   AND currentCompany = 'SFS Group'
   AND currentSchool = 'IA School'
 ```
 
-#### 👨‍💻 Description en langage humain
-Étudiant en Master Intelligence Artificielle & Management chez IA School, je suis actuellement en alternance au sein de l'entreprise SFS France.
+#### 👨‍💻 Description in human language
+Student in Artificial Intelligence and Management at IA School in France, I'm currently in apprenticeship as Web Developper at SFS France.
 
-Je suis passionné par tous les domaines nécessitant de la créativité, comme par exemple :
-- :film_strip: Montage vidéo
-- :camera: Montage photo
-- :computer: Programmation
-- :musical_note: Création de musiques
-- :package: Impression 3D
+I'm passionate about creative activities such as:
+- :film_strip: Video editing
+- :camera: Photo editing
+- :computer: Programming
+- :musical_note: Music
+- :package: 3D printing
 - ...and more!
 
-#### `</>` Les langages de programmation que j'utilise (en Python)
+#### `</>` Programming lanquages I use (in Python)
 ```python
 def get_programming_languages():
-  # Je sais, HTML et CSS ne sont pas des langages de programmation
+  # I know, HTML and CSS aren't programming lanquages
   return ["HTML5", "CSS3", "JavaScript", "PhP", "SQL", "Python", "R"]
 ```
 
-#### `</>` Les IDE que j'utilise (en PhP)
+#### `</>` IDE I use (in PhP)
 ```php
 <?php
 
 function getIde() {
-  // Ce n'est pas vrai pour les 2 derniers
+  // This is not true for the last two
   return ["Visual Studio Code", "PyCharm", "Jupyter Notebook", "Bloc-notes", "Vim"];
 }
 ```
 
-## :video_game: Mes passions
-- :trollface: `01010000 01100001 01110010 01101100 01100101 01110010 00100000 01100101 01101110 00100000 01100010 01101001 01101110 01100001 01101001 01110010 01100101`
-- :headphones: Écouter de la musique (et parfois faire de la musique)
-- :computer: Programmer des programmes
-- :tv: Regarder des séries
-- :tv: Regarder d'autres séries
-- :tv: Regarder des séries (et parfois des films)
+## :video_game: Hobbies
+- :trollface: `01010000 01100001 01110010 01101100 01100101 01110010 00100000 01100101 01101110 00100000 01100010 01101001 01101110 01100001 01101001 01110010 01100101` (FR)
+- :headphones: Listen music (I create sometimes music)
+- :computer: Programming programs
+- :tv: Watching series
+- :tv: Watching others series
+- :tv: Watching series (and sometimes films)
 
-## :book: Mes citations
+## :book: Quotes I like
 > Il ne faut jamais imposer son point de vue sur un problème; on devrait plutôt l'étudier, et avec le temps une solution se révélera ~ Albert Einstein
 
 > I am not a good programmer, I am just good at copy pasting from stackoverflow ~ Rahul Codes
