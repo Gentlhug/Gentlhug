@@ -9,6 +9,7 @@ WHERE
   name = 'Hugo FAURIEL'
   AND gender = 'Male'
   AND age = 23
+  AND country = 'France'
   AND role = 'Student in Artificial Intelligence and Management'
   AND contract = 'Apprenticeship'
   AND currentCompany = 'SFS Group'
