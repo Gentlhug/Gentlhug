@@ -8,16 +8,16 @@ SELECT Human FROM Earth
 WHERE
   name = 'Hugo FAURIEL'
   AND gender = 'Male'
-  AND age = 23
+  AND age = 25
   AND country = 'France'
-  AND role = 'Student in Artificial Intelligence and Management'
-  AND contract = 'Apprenticeship'
-  AND currentCompany = 'SFS Group'
-  AND currentSchool = 'IA School'
+  AND role = 'Founder & CEO at ImpriMante'
+  AND contract = 'Permanent'
+  AND currentCompany = 'ImpriMante'
 ```
 
 #### 👨‍💻 Description in human language
-Student in Artificial Intelligence and Management at IA School in France, I'm currently in apprenticeship as Web Developper at SFS France.
+I'm founder and CEO at ImpriMante, a France-based company mixing AI and 3D printing!
+I'm also a React programmer and AI developper.
 
 I'm passionate about creative activities such as:
 - :film_strip: Video editing
@@ -31,7 +31,7 @@ I'm passionate about creative activities such as:
 ```python
 def get_programming_languages():
   # I know, HTML and CSS aren't programming lanquages
-  return ["HTML5", "CSS3", "JavaScript", "PhP", "SQL", "Python", "R"]
+  return ["HTML5", "CSS3", "JavaScript", "PhP", "SQL", "Python", "R", "C++"]
 ```
 
 #### `</>` IDE I use (in PhP)
@@ -40,8 +40,42 @@ def get_programming_languages():
 
 function getIde() {
   // This is not true for the last two
-  return ["Visual Studio Code", "PyCharm", "Jupyter Notebook", "Bloc-notes", "Vim"];
+  return ["Visual Studio Code", "Visual Studio 2022", "PyCharm", "Jupyter Notebook", "Bloc-notes", "Vim"];
 }
+```
+
+### `</>` Framework I use (in C++)
+```c++
+#include <iostream>
+#include <string>
+
+void Framework()
+{
+  std::string framework[8] = { "React", "Next.JS", "Prisma", "NextAuth", "TailwindCSS", "ShadCN", "Tensorflow", "PyTorch" };
+
+  for (int i = 0; i < framework->length(); ++i)
+  {
+    std::cout << framework[i] << std::endl;
+  }
+}
+
+int main()
+{
+  Framework();
+  std::cin.ignore();
+  return 0;
+}
+```
+Output
+```
+React
+Next.JS
+Prisma
+NextAuth
+TailwindCSS
+ShadCN
+Tensorflow
+PyTorch
 ```
 
 ## :video_game: Hobbies
