@@ -17,7 +17,7 @@ WHERE
 
 #### 👨‍💻 Description in human language
 I'm founder and CEO at ImpriMante, a France-based company mixing AI and 3D printing!
-I'm also a React programmer and AI developper.
+I'm also a web develpper (React/Next.JS and PhP) and AI developper.
 
 I'm passionate about creative activities such as:
 - :film_strip: Video editing
@@ -31,7 +31,7 @@ I'm passionate about creative activities such as:
 ```python
 def get_programming_languages():
   # I know, HTML and CSS aren't programming lanquages
-  return ["HTML5", "CSS3", "JavaScript", "PhP", "SQL", "Python", "R", "C++"]
+  return ["HTML5", "CSS3", "JavaScript", "TypeScript", "PhP", "SQL", "Python", "R", "C++"]
 ```
 
 #### `</>` IDE I use (in PhP)
@@ -44,7 +44,7 @@ function getIde() {
 }
 ```
 
-### `</>` Framework I use (in C++)
+#### `</>` Frameworks and libraries I use (in C++)
 ```c++
 #include <iostream>
 #include <string>
